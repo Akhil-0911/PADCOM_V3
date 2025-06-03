@@ -70,10 +70,10 @@ PADCOM/
 ### Clone the Repository
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PADCOM.git
+git clone https://github.com/Akhil-0911/PADCOM_V3.git
 
 # Navigate to project directory
-cd PADCOM
+cd PADCOM_V3
 ```
 
 ### Backend Setup
@@ -120,11 +120,11 @@ cd PADCOM
 1. Fork the repository on GitHub
 2. Clone your fork:
    ```bash
-   git clone https://github.com/yourusername/PADCOM.git
+   git clone https://github.com/Akhil-0911/PADCOM_V3.git
    ```
 3. Add the original repository as upstream:
    ```bash
-   git remote add upstream https://github.com/originalusername/PADCOM.git
+   git remote add upstream https://github.com/Akhil-0911/PADCOM_V3.git
    ```
 
 ### Making Changes
